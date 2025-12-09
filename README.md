@@ -40,3 +40,10 @@ To study sales performance and consumer behavior and answer business-driven anal
 
 ✔ Some order statuses require business attention (Returns/Cancellations)
 
+## Skills & Tools Used
+Tool	                                  Purpose
+MS Excel	                              Dashboard, Data Cleaning
+Pivot Tables & Charts	                  Visual Analysis
+Slicers & Filters	                      Dynamic User Interaction
+Data Visualization	                    Business Reporting
+
