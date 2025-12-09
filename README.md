@@ -29,9 +29,14 @@ To study sales performance and consumer behavior and answer business-driven anal
 ## Insights Identified
 
 ✔ Women buyers contribute more than men
+
 ✔ Most customers belong to adult age group
+
 ✔ Amazon, Ajio & Myntra bring majority of sales
+
 ✔ Certain states heavily dominate purchase volume
+
 ✔ Seasonal fluctuation visible across months
+
 ✔ Some order statuses require business attention (Returns/Cancellations)
 
